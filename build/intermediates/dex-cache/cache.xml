@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/VerStarr22/Documents/PersonalProjects/PetProjects/TipCalculator2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/VerStarr22/Documents/PersonalProjects/PetProjects/TipCalculator2/app/build/intermediates/pre-dexed/debug/classes-ea4c9fb5a4985124d03221ab1e9ea9ef1c9e2962.jar" />
+    </item>
+    <item
+        jar="/Users/VerStarr22/Documents/PersonalProjects/PetProjects/TipCalculator2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/VerStarr22/Documents/PersonalProjects/PetProjects/TipCalculator2/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-c14556ee738db9f2548c6bc9551f3bd73a134a57.jar" />
+    </item>
+    <item
+        jar="/Users/VerStarr22/Documents/PersonalProjects/PetProjects/TipCalculator2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/VerStarr22/Documents/PersonalProjects/PetProjects/TipCalculator2/app/build/intermediates/pre-dexed/debug/classes-a2486367c15a0baba15cfa30b30348c0d6a3850a.jar" />
+    </item>
+    <item
+        jar="/Users/VerStarr22/Documents/School/Fall2014/CS371M/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/VerStarr22/Documents/PersonalProjects/PetProjects/TipCalculator2/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-1a37fe0c0fd57ea5bcffc55fdf34f1b3b818631b.jar" />
+    </item>
+
+</items>
